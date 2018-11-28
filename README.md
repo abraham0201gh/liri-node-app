@@ -2,9 +2,9 @@
 
 About this Project  
 
-This project involved developing an iPhone-like Interface akin to iPhone's Siri.  However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and returns data.
+This project is a command line node app that takes in parameters and returns data.  The project involved developing an iPhone-like Interface, named LIRI, and akin to iPhone's Siri.  However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. 
 
-What Each Command Should Do
+What Each Command Does
 
 1.	node liri.js concert-this <artist/band name here>
 
