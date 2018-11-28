@@ -44,7 +44,7 @@ This will output the following information to your terminal/bash window:
 	  * Actors in the movie.
 
 If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
-You'll use the axios package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use trilogy.
+You'll use the axios package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. 
 
 4.	node liri.js do-what-it-says
 
